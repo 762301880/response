@@ -1,0 +1,21 @@
+{
+    "name": "yly/response",
+    "description": "json-response",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "762301880",
+            "email": "762301880@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Response\\": "src/"
+        }
+    }
+}

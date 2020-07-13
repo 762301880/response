@@ -1,4 +1,4 @@
-# json-response
+# json格式接口返回器
 个人封装的laravel-json格式返回器（作者：姚留洋）
 
 ## 使用方法
